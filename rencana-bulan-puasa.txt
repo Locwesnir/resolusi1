@@ -1,12 +1,11 @@
 rencana bulan puasa
 
 -sholat terawih
--joging
-  *di sudiang
-  *3 putaran
--main petasan
+  ^amin
 -kuliah
+  ^memahami bahasa C++
 -ngaji
 -buka bersama
   *mall nipah
   *terserah sih wkwkwkw
+-membuat 1 karya seni
