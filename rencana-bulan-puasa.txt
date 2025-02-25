@@ -3,10 +3,13 @@ rencana bulan puasa
 -sholat terawih
 -joging
   *di sudiang
+    ^di gor
   *3 putaran
 -main petasan
 -kuliah
+  ^belajar bahasa program baru
 -ngaji
 -buka bersama
   *mall nipah
   *terserah sih wkwkwkw
+-membuat minimal 1 proyek
